@@ -1,0 +1,26 @@
+html {
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+}
+.main{
+  background-color: rgb(235, 225, 225);
+}
+.q{
+    display: inline-block;
+    height: 60px;
+    width: 60px;
+
+    align-items: center;
+    justify-content: center;
+    font-size:15px;
+    background-color: white;
+    cursor: pointer;
+    border-radius: 100px;
+    background: #D9DEDB;
+    color: #202020;
+    box-shadow: 5px 5px 11px #b1b3b1, -5px -5px 11px #333333;
+    
+}
+.q:hover{
+    background-color: darkslateblue;
+    color: black;
+}
